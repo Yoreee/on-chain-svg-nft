@@ -13,3 +13,17 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+### Some important commands:
+
+npx hardhat
+yard add [module name]
+hh deploy
+npx hardhat deploy --network [network]
+npx hardhat verify --network [network] [hash]
+
+
+### Notes:
+
+Add some notes here
+
