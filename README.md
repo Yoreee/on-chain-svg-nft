@@ -5,6 +5,20 @@ Still cant get opensea to render SVG...why not?
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
+
+
+### Include these in your .env:
+
+* RINKEBY_RPC_URL
+Get this from alchemy!
+
+* MNEMONIC
+Get this from metamask!
+
+* ETHERSCAN_API_KEY
+Get this from etherscan!
+
+
 Try running some of the following tasks:
 
 ```shell
