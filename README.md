@@ -9,14 +9,14 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 ### Include these in your .env:
 
-* RINKEBY_RPC_URL
-Get this from alchemy!
+``` RINKEBY_RPC_URL ```
+* Get this from alchemy!
 
-* MNEMONIC
-Get this from metamask!
+``` MNEMONIC ```
+* Get this from metamask!
 
-* ETHERSCAN_API_KEY
-Get this from etherscan!
+``` ETHERSCAN_API_KEY ```
+* Get this from etherscan!
 
 
 Try running some of the following tasks:
