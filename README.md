@@ -16,11 +16,11 @@ npx hardhat help
 
 ### Some important commands:
 
-npx hardhat
-yard add [module name]
-hh deploy
-npx hardhat deploy --network [network]
-npx hardhat verify --network [network] [hash]
+* npx hardhat
+* yard add [module name]
+* hh deploy
+* npx hardhat deploy --network [network]
+* npx hardhat verify --network [network] [hash]
 
 
 ### Notes:
