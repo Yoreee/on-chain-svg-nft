@@ -1,7 +1,6 @@
 # Hardhat Project with on-chain svg metadata
 
 
-Still cant get opensea to render SVG...why not? 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
@@ -42,5 +41,5 @@ npx hardhat help
 
 ### Notes:
 
-Add some notes here
+1. If SVG is not rendering, its probably an issue with the formatting of the SVG image. 
 
